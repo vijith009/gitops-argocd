@@ -16,7 +16,7 @@ spec:
         app: solar-system
     spec:
       containers:
-      - image: mdhack/solar-system:10-a84a4af6f50bb314e28dbc2a2297b6526d784715
+      - image: mdhack/solar-system:11-835ae872dc17688327bd3de022a5b386e4e74164
         name: solar-system
         ports: 
         - containerPort: 80
